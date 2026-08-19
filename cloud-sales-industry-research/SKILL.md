@@ -2,7 +2,7 @@
 name: new-industry-deep-research
 description: 深度研究陌生的新行业、新赛道、新兴市场、新商业模式或新技术产业，帮助云计算和AI销售在短时间内建立高管交流级行业认知，并识别云、AI、数据、算力、模型和Agent销售机会。Use when the user asks to研究、快速进入、吃透、拆解或理解一个陌生行业/新赛道，或准备与该行业CEO、CTO、业务负责人、投资人交流。默认使用“五层十八章 + 高管交流 Cheat Sheet”框架。
 metadata:
-  display_name: "新赛道深度研究报告"
+  display_name: "云销版新赛道深度研究报告"
   version: "1.0"
   language: "zh-CN"
 ---
